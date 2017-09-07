@@ -1,2 +1,2 @@
-# 2017-09-06_Bioinformatics_psm_exercise
+# 6 September 2017 Demo repository for Bioinformatics class
 Demo repository for PSM class
