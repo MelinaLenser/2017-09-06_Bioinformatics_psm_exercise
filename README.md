@@ -2,3 +2,5 @@
 Demo repository for PSM class
 
 This is a line that we added on our laptop.
+
+This is a line we added after configuring git.
